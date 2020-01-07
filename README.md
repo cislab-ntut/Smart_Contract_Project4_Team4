@@ -1,5 +1,4 @@
 # Project4-4_Smart_contract
-# Project 4 - 智能合約 
 
 ## 購買規則: 
 有機青菜價格:1 
